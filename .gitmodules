@@ -1,0 +1,3 @@
+[submodule "3rdparty/bop_toolkit"]
+	path = 3rdparty/bop_toolkit
+	url = https://github.com/thodan/bop_toolkit.git
